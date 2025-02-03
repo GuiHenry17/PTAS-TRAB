@@ -1,6 +1,6 @@
 # 📚 Gerenciador de Livros
 
-Este projeto é uma API REST simples para o gerenciamento de livros. Permite listar, buscar, cadastrar, atualizar e remover livros de um catálogo.
+Este projeto é uma API simples para o gerenciamento de livros. Permite as operações básicas de CRUD (Create, Read, Update, Delete).
 
 ## 🚀 Como executar a aplicação
 
